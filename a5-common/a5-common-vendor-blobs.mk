@@ -195,9 +195,6 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5-common/proprietary/vendor/lib/libqomx_jpegdec.so:/system/vendor/lib/libqomx_jpegdec.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libqomx_jpegenc.so:/system/vendor/lib/libqomx_jpegenc.so \
         vendor/htc/a5-common/proprietary/bin/mpdecision:/system/bin/mpdecision \
-        vendor/htc/a5-common/proprietary/bin/thermal-engine:/system/bin/thermal-engine \
-        vendor/htc/a5-common/proprietary/vendor/lib/libthermalclient.so:/system/vendor/lib/libthermalclient.so \
-        vendor/htc/a5-common/proprietary/vendor/lib/libthermalioctl.so:/system/vendor/lib/libthermalioctl.so \
         vendor/htc/a5-common/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
         vendor/htc/a5-common/proprietary/vendor/lib/libqti-perfd-client.so:/system/vendor/lib/libqti-perfd-client.so \
         vendor/htc/a5-common/proprietary/bin/akmd:/system/bin/akmd \
