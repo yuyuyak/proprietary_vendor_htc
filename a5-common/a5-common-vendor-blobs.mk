@@ -217,12 +217,10 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5-common/proprietary/vendor/firmware/keymaster/keymaster.b03:/system/vendor/firmware/keymaster/keymaster.b03 \
         vendor/htc/a5-common/proprietary/vendor/firmware/keymaster/keymaster.mdt:/system/vendor/firmware/keymaster/keymaster.mdt \
         vendor/htc/a5-common/proprietary/vendor/lib/drm/libdrmwvmplugin.so:/system/vendor/lib/drm/libdrmwvmplugin.so \
-        vendor/htc/a5-common/proprietary/vendor/lib/drm/libfwdlockengine.so:/system/vendor/lib/drm/libfwdlockengine.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libQSEEComAPI.so:/system/vendor/lib/libQSEEComAPI.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:/system/vendor/lib/libWVStreamControlAPI_L1.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libWVphoneAPI.so:/system/vendor/lib/libWVphoneAPI.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libdrmdecrypt.so:/system/vendor/lib/libdrmdecrypt.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libwvdrm_L1.so:/system/vendor/lib/libwvdrm_L1.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
-        vendor/htc/a5-common/proprietary/vendor/lib/mediadrm/libdrmclearkeyplugin.so:/system/vendor/lib/mediadrm/libdrmclearkeyplugin.so \
         vendor/htc/a5-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:/system/vendor/lib/mediadrm/libwvdrmengine.so \
