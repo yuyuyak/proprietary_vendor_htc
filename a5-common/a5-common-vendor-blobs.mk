@@ -70,7 +70,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5-common/proprietary/etc/firmware/ILP0100_IPM_Data_out.bin:/system/etc/firmware/ILP0100_IPM_Data_out.bin \
         vendor/htc/a5-common/proprietary/etc/firmware/lscbuffer_rev2.bin:/system/etc/firmware/lscbuffer_rev2.bin \
         vendor/htc/a5-common/proprietary/lib/libawb_calibration.so:/system/lib/libawb_calibration.so \
-        vendor/htc/a5-common/proprietary/lib/hw/camera.msm8226.so:/system/lib/hw/camera.msm8226.so \
+        vendor/htc/a5-common/proprietary/lib/hw/camera.msm8226.so:/system/lib/hw/camera.vendor.msm8226.so \
         vendor/htc/a5-common/proprietary/lib/libBeautyChat.so:/system/lib/libBeautyChat.so \
         vendor/htc/a5-common/proprietary/lib/libcamera_aec.so:/system/lib/libcamera_aec.so \
         vendor/htc/a5-common/proprietary/lib/libcamera_af.so:/system/lib/libcamera_af.so \
@@ -224,3 +224,24 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5-common/proprietary/vendor/lib/libwvdrm_L1.so:/system/vendor/lib/libwvdrm_L1.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libwvm.so:/system/vendor/lib/libwvm.so \
         vendor/htc/a5-common/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:/system/vendor/lib/mediadrm/libwvdrmengine.so \
+vendor/htc/a5-common/proprietary/vendor/lib/libloc_api-rpc-qc.so:system/vendor/lib/libloc_api-rpc-qc.so \
+        vendor/htc/a5-common/proprietary/bin/netmgrd:/system/bin/netmgrd \
+        vendor/htc/a5-common/proprietary/bin/qmuxd:/system/bin/qmuxd \
+        vendor/htc/a5-common/proprietary/vendor/lib/libdiag.so:/system/vendor/lib/libdiag.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libdsi_netctrl.so:/system/vendor/lib/libdsi_netctrl.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libdsnetutils.so:/system/vendor/lib/libdsnetutils.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libdsutils.so:/system/vendor/lib/libdsutils.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libidl.so:/system/vendor/lib/libidl.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqcci_legacy.so:/system/vendor/lib/libqcci_legacy.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqdi.so:/system/vendor/lib/libqdi.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqdp.so:/system/vendor/lib/libqdp.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmi_cci.so:/system/vendor/lib/libqmi_cci.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmi_client_qmux.so:/system/vendor/lib/libqmi_client_qmux.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmi_common_so.so:/system/vendor/lib/libqmi_common_so.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmi_csi.so:/system/vendor/lib/libqmi_csi.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmi_encdec.so:/system/vendor/lib/libqmi_encdec.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmiservices.so:/system/vendor/lib/libqmiservices.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmiservices_ext.so:/system/vendor/lib/libqmiservices_ext.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libqmi.so:/system/vendor/lib/libqmi.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libnetmgr.so:/system/vendor/lib/libnetmgr.so \
+        vendor/htc/a5-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:/system/vendor/lib/libril-qcril-hook-oem.so \
