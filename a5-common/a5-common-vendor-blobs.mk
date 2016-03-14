@@ -245,3 +245,7 @@ vendor/htc/a5-common/proprietary/vendor/lib/libloc_api-rpc-qc.so:system/vendor/l
         vendor/htc/a5-common/proprietary/vendor/lib/libqmi.so:/system/vendor/lib/libqmi.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libnetmgr.so:/system/vendor/lib/libnetmgr.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libril-qcril-hook-oem.so:/system/vendor/lib/libril-qcril-hook-oem.so \
+vendor/htc/a5-common/proprietary/vendor/lib/libqomx_core.so:system/vendor/lib/libqomx_core.so \
+vendor/htc/a5-common/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
+vendor/htc/a5-common/proprietary/vendor/lib/libbccQTI.so:system/vendor/lib/libbccQTI.so \
+#vendor/htc/a5-common/proprietary/vendor/lib/:system/vendor/lib/ \
