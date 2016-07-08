@@ -45,3 +45,4 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5ul/proprietary/vendor/lib/libril-qcril-hook-oem.so:/system/vendor/lib/libril-qcril-hook-oem.so \
         vendor/htc/a5ul/proprietary/vendor/lib/libsystem_health_mon.so:/system/vendor/lib/libsystem_health_mon.so \
         vendor/htc/a5ul/proprietary/vendor/lib/libxml.so:/system/vendor/lib/libxml.so \
+        vendor/htc/a5ul/proprietary/vendor/firmware/libpn547_fw.so:/system/vendor/firmware/libpn547_fw.so \
