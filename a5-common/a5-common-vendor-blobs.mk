@@ -48,6 +48,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5-common/proprietary/etc/tfa/voip_l.drc:/system/etc/tfa/voip_l.drc \
         vendor/htc/a5-common/proprietary/etc/tfa/voip_l.eq:/system/etc/tfa/voip_l.eq \
         vendor/htc/a5-common/proprietary/etc/tfa/voip_l.preset:/system/etc/tfa/voip_l.preset \
+        vendor/htc/a5-common/proprietary/framework/qti-telephony-common.jar:/system/framework/qti-telephony-common.jar \
         vendor/htc/a5-common/proprietary/vendor/lib/libacdbloader.so:/system/vendor/lib/libacdbloader.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libacdbmapper.so:/system/vendor/lib/libacdbmapper.so \
         vendor/htc/a5-common/proprietary/vendor/lib/libacdbrtac.so:/system/vendor/lib/libacdbrtac.so \

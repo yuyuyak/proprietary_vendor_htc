@@ -25,6 +25,7 @@ LOCAL_SRC_FILES := proprietary/lib/libril.so
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_SUFFIX := .so
 LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_C_EXPORT_INCLUDES := telephony/ril.h
 include $(BUILD_PREBUILT)
 
 endif
