@@ -29,12 +29,12 @@ LOCAL_C_EXPORT_INCLUDES := telephony/ril.h
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := libril-qc-qmi-1
+LOCAL_MODULE := rild
 LOCAL_MODULE_OWNER := htc
-LOCAL_SRC_FILES := proprietary/vendor/lib/libril-qc-qmi-1.so
+LOCAL_SRC_FILES := proprietary/bin/rild
 LOCAL_MODULE_TAGS := optional
-LOCAL_MODULE_SUFFIX := .so
-LOCAL_MODULE_CLASS := SHARED_LIBRARIES
+LOCAL_MODULE_SUFFIX := 
+LOCAL_MODULE_CLASS := EXECUTABLES
 LOCAL_C_EXPORT_INCLUDES := telephony/ril.h
 include $(BUILD_PREBUILT)
 
