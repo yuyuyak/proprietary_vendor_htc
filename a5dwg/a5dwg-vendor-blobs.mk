@@ -32,6 +32,7 @@ PRODUCT_COPY_FILES += \
         vendor/htc/a5dwg/proprietary/vendor/lib/libqmi_encdec.so:/system/vendor/lib/libqmi_encdec.so \
         vendor/htc/a5dwg/proprietary/vendor/lib/libqmiservices.so:/system/vendor/lib/libqmiservices.so \
         vendor/htc/a5dwg/proprietary/vendor/lib/libsmemlog.so:/system/vendor/lib/libsmemlog.so \
+        vendor/htc/a5dwg/proprietary/lib/libhtc_rilhook.so:/system/lib/libhtc_rilhook.so \
         vendor/htc/a5dwg/proprietary/bin/netmgrd:/system/bin/netmgrd \
         vendor/htc/a5dwg/proprietary/bin/qmuxd:/system/bin/qmuxd \
         vendor/htc/a5dwg/proprietary/bin/radish:/system/bin/radish \
