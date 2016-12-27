@@ -45,7 +45,6 @@ PRODUCT_COPY_FILES += \
   vendor/htc/shooter/proprietary/system/bin/charging:/system/bin/charging \
   vendor/htc/shooter/proprietary/system/bin/dmagent:/system/bin/dmagent \
   vendor/htc/shooter/proprietary/system/bin/getWiMAXPropDaemond:/system/bin/getWiMAXPropDaemond \
-  vendor/htc/shooter/proprietary/system/bin/htcbatt:/system/bin/htcbatt \
   vendor/htc/shooter/proprietary/system/bin/load-modem.sh:/system/bin/load-modem.sh \
   vendor/htc/shooter/proprietary/system/bin/logcat2:/system/bin/logcat2 \
   vendor/htc/shooter/proprietary/system/bin/mm-qcamera-daemon:/system/bin/mm-qcamera-daemon \
@@ -129,4 +128,5 @@ PRODUCT_COPY_FILES += \
   vendor/htc/shooter/proprietary/system/lib/libqmi.so:/system/lib/libqmi.so \
   vendor/htc/shooter/proprietary/system/lib/libqmiservices.so:/system/lib/libqmiservices.so \
   vendor/htc/shooter/proprietary/system/lib/libsc-a2xx.so:/system/lib/libsc-a2xx.so 
+#  vendor/htc/shooter/proprietary/system/bin/htcbatt:/system/bin/htcbatt \
 
